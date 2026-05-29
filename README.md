@@ -4,7 +4,7 @@
 
 ### Building Scalable Data Pipelines & AI-Ready Data Systems
 
-**New Jersey, NJ · Open to Relocation · MS CS @ St. Francis University · Open to Work**
+**New Jersey, NJ · Open to Relocation · MS CS @ St. Francis College · Open to Work**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-preethidommaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![GitHub](https://img.shields.io/badge/GitHub-preethidommaraju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preethidommaraju)
@@ -54,7 +54,7 @@ Designed a distributed big data solution using Apache Hadoop and Spark to divide
 ### 🔷 02 — High-Resolution Image Synthesis with Latent Diffusion Models
 `PyTorch` `Python` `Machine Learning` `Deep Learning` `Cloud Computing`
 
-*Associated with St. Francis University*
+*Associated with St. Francis College*
 
 Built and trained latent diffusion models for high-resolution image generation using PyTorch and cloud computing technologies. Designed end-to-end machine learning pipelines covering data preprocessing, model training, evaluation, and scalable inference workflows for AI-based image synthesis applications.
 - Built end-to-end ML pipeline from data preprocessing to scalable inference
@@ -124,7 +124,7 @@ A lightweight Flask-based REST API that allows users to register, retrieve, and 
 
 | Degree | Institution | Year |
 |---|---|---|
-| **MS Computer Science** | St. Francis University | 2026 |
+| **MS Computer Science** | St. Francis College | 2026 |
 | **BE Computer Science** | Sri Venkateshwara College of Engineering | 2019 |
 
 ---
