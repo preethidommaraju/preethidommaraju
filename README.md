@@ -13,20 +13,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-preethidommaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![GitHub](https://img.shields.io/badge/GitHub-preethidommaraju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preethidommaraju)
 [![Email](https://img.shields.io/badge/Email-preethid0506@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-preethidommaraju.vercel.app-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a2a4a&height=3&section=header" />
-
 ## <img src="https://img.shields.io/badge/01-About-00b4d8?style=flat-square" /> &nbsp; About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" />
 
-Applied Data Engineer with **2.5+ years of experience** building scalable data pipelines, optimizing production systems, and delivering high-impact data solutions. Specializing in **Big Data Engineering**, **AI Data Systems**, and **Cloud Data Platforms** on AWS and Google Cloud.
+Applied Data Engineer with **2.5+ years of experience** building scalable data pipelines and ETL workflows across cloud platforms. Architected cloud data infrastructure for enterprise clients including **Scotiabank's cloud migration on AWS**, delivering measurable business outcomes across production environments.
 
-Recognized with a prestigious *"Pat on the Back" Award* for exceptional performance and consistent delivery across production workflows.
+Currently pursuing **MS Computer Science** at St. Francis College (2026), with growing expertise in AI and deep learning through academic research and projects.
 
 <br/>
 
@@ -58,9 +57,18 @@ Recognized with a prestigious *"Pat on the Back" Award* for exceptional performa
 - 🔹 Resolved **95% of production incidents** without escalation, reducing turnaround time by **25%**
 - 🔹 Engaged directly with senior clients across **UAT and Development teams**, translating business requirements into technical solutions
 - 🔹 Built reusable datasets and optimized schema design for dashboards, analytics, and downstream BI workflows
-- 🔹 Collaborated cross-functionally to gather requirements and ensure timely enterprise data delivery
 
-> 🏆 **Pat on the Back Award — Tech Mahindra** | Recognized for exceptional performance, ownership of high-priority data engineering tasks, and consistent delivery across production workflows.
+<table>
+<tr>
+<td>
+
+🏆 &nbsp; **Pat on the Back Award — Tech Mahindra**
+
+Recognized for exceptional performance, ownership of high-priority data engineering tasks, and consistent delivery across production workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,29 +79,41 @@ Recognized with a prestigious *"Pat on the Back" Award* for exceptional performa
 <td width="50%">
 
 ### 🔷 01 — Division & Replication of Data
+`Distributed Big Data System`
+
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-FF652F?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-00b4d8?style=flat-square&logoColor=white)
 
-*Associated with Tech Mahindra*
+---
 
 Distributed big data solution using Hadoop and Spark to divide large datasets into fragments and replicate across cloud nodes for fault tolerance and high availability.
 
-[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/data-division-replication)
+- Improved fault tolerance across distributed cloud nodes
+- Optimized partitioning strategies for enhanced scalability
+
+📅 2023 &nbsp;&nbsp; [![Source](https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/data-division-replication)
 
 </td>
 <td width="50%">
 
 ### 🔷 02 — High-Res Image Synthesis with LDMs
+`AI / Deep Learning`
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Deep%20Learning-00b4d8?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00b4d8?style=flat-square&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-*Associated with St. Francis College*
+---
 
-Built and trained latent diffusion models for high-resolution image generation. Designed end-to-end ML pipelines covering preprocessing, training, evaluation, and scalable inference.
+Built and trained latent diffusion models for high-resolution image generation using PyTorch. Designed end-to-end ML pipelines from preprocessing to scalable inference.
 
-[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/image-synthesis-ldm)
+- Built full ML pipeline from preprocessing to inference
+- Implemented and evaluated LDM architecture for high-res synthesis
+
+📅 2024–2025 &nbsp;&nbsp; [![Source](https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/image-synthesis-ldm)
 
 </td>
 </tr>
@@ -101,13 +121,21 @@ Built and trained latent diffusion models for high-resolution image generation. 
 <td width="50%">
 
 ### 🔷 03 — Strava Lite
+`REST API Platform`
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20API-00b4d8?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00b4d8?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
 
 Lightweight Flask-based REST API for user activity management — register, retrieve, and remove data. Built with modular routing and clean API design principles.
 
-[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite)
+- Designed RESTful endpoints for user activity management
+- Structured with modular Flask architecture
+
+📅 2023 &nbsp;&nbsp; [![Source](https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite)
 
 </td>
 <td width="50%">
@@ -127,12 +155,12 @@ Lightweight Flask-based REST API for user activity management — register, retr
 
 **🤖 AI & Machine Learning**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00b4d8?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **📦 Big Data & ETL**
 
@@ -141,29 +169,30 @@ Lightweight Flask-based REST API for user activity management — register, retr
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Pipelines-00897B?style=flat-square&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **☁️ Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 **🗄️ Databases**
 
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 
 ---
 
@@ -194,9 +223,8 @@ Lightweight Flask-based REST API for user activity management — register, retr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a4a,100:0d1117&height=100&section=footer&text=Let's%20Connect!&fontSize=20&fontColor=00b4d8&fontAlignY=65" />
-
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
 
 *© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
