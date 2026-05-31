@@ -27,6 +27,11 @@ Applied Data Engineer with **2.5+ years of experience** building scalable data p
 
 Currently pursuing **MS Computer Science** at St. Francis College (2026), with growing expertise in AI and deep learning through academic research and projects.
 
+**🔷 Featured Projects:**
+- [Division & Replication of Data](https://github.com/preethidommaraju/data-division-replication) — Distributed Big Data System
+- [High-Res Image Synthesis with LDMs](https://github.com/preethidommaraju/image-synthesis-ldm) — AI / Deep Learning
+- [Strava Lite](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite) — REST API Platform
+
 <br/>
 
 ![Years](https://img.shields.io/badge/📊_2.5%2B_Years_Experience-0d1117?style=for-the-badge&labelColor=0a2a4a&color=00b4d8)
@@ -90,8 +95,8 @@ Recognized for exceptional performance, ownership of high-priority data engineer
 
 Distributed big data solution using Hadoop and Spark to divide large datasets into fragments and replicate across cloud nodes for fault tolerance and high availability.
 
-- Improved fault tolerance across distributed cloud nodes
-- Optimized partitioning strategies for enhanced scalability
+- Improved fault tolerance and high availability across distributed nodes
+- Optimized data partitioning and replication strategies for enhanced scalability
 
 📅 2023 &nbsp;&nbsp; [![Source](https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/data-division-replication)
 
@@ -108,10 +113,10 @@ Distributed big data solution using Hadoop and Spark to divide large datasets in
 
 ---
 
-Built and trained latent diffusion models for high-resolution image generation using PyTorch. Designed end-to-end ML pipelines from preprocessing to scalable inference.
+Built and trained latent diffusion models for high-resolution image generation using PyTorch and cloud computing. Designed end-to-end ML pipelines covering data preprocessing, model training, evaluation, and scalable inference.
 
-- Built full ML pipeline from preprocessing to inference
-- Implemented and evaluated LDM architecture for high-res synthesis
+- Built end-to-end ML pipeline from preprocessing to scalable inference
+- Implemented and evaluated latent diffusion architecture for high-res synthesis
 
 📅 2024–2025 &nbsp;&nbsp; [![Source](https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/image-synthesis-ldm)
 
@@ -130,10 +135,10 @@ Built and trained latent diffusion models for high-resolution image generation u
 
 ---
 
-Lightweight Flask-based REST API for user activity management — register, retrieve, and remove data. Built with modular routing and clean API design principles.
+Lightweight Flask-based REST API that allows users to register, retrieve, and remove activity data — inspired by Strava's fitness tracking platform. Built with modular routing and clean API design principles.
 
 - Designed RESTful endpoints for user activity management
-- Structured with modular Flask architecture
+- Structured with modular Flask architecture (api.py, routes.py, app.py)
 
 📅 2023 &nbsp;&nbsp; [![Source](https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite)
 
