@@ -1,5 +1,9 @@
-[<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Building%20Scalable%20Data%20Pipelines%20%26%20AI-Ready%20Data%20Systems&descAlignY=58&descColor=ffffff&descSize=18" />
+<div align="center">
+
+# 👋 Hi, I'm Preethi Dommaraju
+
+### Building Scalable Data Pipelines & AI-Ready Data Systems
+
 </div>
 
 <div align="center">
@@ -193,4 +197,3 @@ Lightweight Flask-based REST API for user activity management — register, retr
 *© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
 
 </div>
-](https://github.com/preethidommaraju/preethidommaraju/edit/main/README.md)
