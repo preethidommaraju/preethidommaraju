@@ -56,8 +56,11 @@ Recognized with a prestigious *"Pat on the Back" Award* for outstanding producti
 - 🔹 Led data engineering for **Scotiabank's cloud migration** — built AWS-based warehouse and data lake workflows, reducing costs by **20%**
 - 🔹 Automated recurring **ETL and data preparation workflows**, reducing manual effort by **60%**
 - 🔹 Resolved **95% of production incidents** without escalation, reducing turnaround time by **25%**
+- 🔹 Engaged directly with senior clients across **UAT and Development teams**, translating business requirements into technical solutions
 - 🔹 Built reusable datasets and optimized schema design for dashboards, analytics, and downstream BI workflows
 - 🔹 Collaborated cross-functionally to gather requirements and ensure timely enterprise data delivery
+
+> 🏆 **Pat on the Back Award — Tech Mahindra** | Recognized for exceptional performance, ownership of high-priority data engineering tasks, and consistent delivery across production workflows.
 
 ---
 
@@ -76,7 +79,7 @@ Recognized with a prestigious *"Pat on the Back" Award* for outstanding producti
 
 Distributed big data solution using Hadoop and Spark to divide large datasets into fragments and replicate across cloud nodes for fault tolerance and high availability.
 
-[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju)
+[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/data-division-replication)
 
 </td>
 <td width="50%">
@@ -90,7 +93,7 @@ Distributed big data solution using Hadoop and Spark to divide large datasets in
 
 Built and trained latent diffusion models for high-resolution image generation. Designed end-to-end ML pipelines covering preprocessing, training, evaluation, and scalable inference.
 
-[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju)
+[![Source](https://img.shields.io/badge/📂_Source-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju/image-synthesis-ldm)
 
 </td>
 </tr>
@@ -168,7 +171,9 @@ Lightweight Flask-based REST API for user activity management — register, retr
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_Certified_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+| 🏅 Certification | Issuer | Status |
+|:---|:---|:---:|
+| **AWS Certified Data Engineer – Associate** | Amazon Web Services | 🔄 In Progress |
 
 </div>
 
