@@ -24,9 +24,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" />
 
-Software Engineer with **2.5+ years of experience** building scalable data pipelines, optimizing production systems, and delivering high-impact data solutions. Specializing in **Big Data Engineering**, **AI Data Systems**, and **Cloud Data Platforms** on AWS and Google Cloud.
+Applied Data Engineer with **2.5+ years of experience** building scalable data pipelines, optimizing production systems, and delivering high-impact data solutions. Specializing in **Big Data Engineering**, **AI Data Systems**, and **Cloud Data Platforms** on AWS and Google Cloud.
 
-Recognized with a prestigious *"Pat on the Back" Award* for outstanding production support and problem-solving.
+Recognized with a prestigious *"Pat on the Back" Award* for exceptional performance and consistent delivery across production workflows.
 
 <br/>
 
