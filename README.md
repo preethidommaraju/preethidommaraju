@@ -21,11 +21,11 @@
 
 ```yaml
 name      : Preethi Dommaraju
-role      : Data Engineer | AI & Big Data Systems
+role      : Data Engineer | Building Pipelines That Power AI & Analytics
 location  : New Jersey, NJ  (Open to Relocation)
 education : MS Computer Science @ St. Francis College (2026)
 experience: 2.5+ Years @ Tech Mahindra Limited
-focus     : Scalable Data Pipelines · ETL Automation · AI-Ready Data Systems
+focus     : Scalable Data Pipelines · ETL Automation · AI & Analytics
 status    : 🟢 Open to Work — Data Engineer & AI Data Engineer roles
 ```
 
