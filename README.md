@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Preethi Dommaraju
-
-### Data Engineer · AI & Big Data Systems · Open to Work 🟢
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Preethi%20Dommaraju&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%26%20Big%20Data%20Systems&descAlignY=58&descColor=00b4d8&descSize=20&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-preethidommaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![GitHub](https://img.shields.io/badge/GitHub-preethidommaraju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preethidommaraju)
@@ -96,36 +94,19 @@ status    : 🟢 Open to Work — Data Engineer & AI Data Engineer roles
 
 ---
 
-## > certifications
-
-| 🏅 Certification | Issuer | Status |
-|:---|:---|:---:|
-| **AWS Certified Data Engineer – Associate** | Amazon Web Services | 🔄 In Progress |
-
----
-
-## > education
-
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|:---|:---|:---:|
-| **MS Computer Science** | St. Francis College | 2026 |
-| **BE Computer Science** | Sri Venkateshwara College of Engineering | 2019 |
-
----
-
-## > github_stats
+## > contribution_graph
 
 <div align="center">
 
-[![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&count_private=true)](https://github.com/preethidommaraju)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff)](https://github.com/preethidommaraju)
+[![Preethi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preethidommaraju&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/preethidommaraju)
 
 </div>
 
 ---
 
 <div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer)
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
