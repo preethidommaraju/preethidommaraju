@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud&descSize=16&descAlignY=58&descColor=90e0ef" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud&descSize=16&descAlignY=58&descColor=90e0ef)
 
 </div>
 
@@ -25,7 +25,7 @@
   current   : MS Computer Science @ St. Francis College (Aug 2026)
   focus     : ETL Pipelines · Big Data · Cloud Analytics · AI Systems
   work_auth : OPT Eligible Aug 2026
-  status    : 🟢 Open to Work
+  status    : Open to Work
 ```
 
 ---
@@ -34,11 +34,7 @@
 
 <div align="center">
 
-[![Python](https://skillicons.dev/icons?i=python,java,bash,pytorch,tensorflow)](https://skillicons.dev)
-
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git)](https://skillicons.dev)
-
-[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,java,bash,pytorch,tensorflow,sklearn,aws,gcp,docker,git,postgres,mysql,mongodb,kafka" />
 
 </div>
 
@@ -47,14 +43,14 @@
 <div align="center">
 
 | 🔄 Data Engineering | ☁️ Cloud | 🗄️ Databases | 🤖 AI / ML |
-|:---:|:---:|:---:|:---:|
+|:---|:---|:---|:---|
 | ETL Pipelines | AWS (S3, Glue, EMR) | PostgreSQL | PyTorch |
 | Data Modeling | Amazon Redshift | MySQL | scikit-learn |
 | Data Warehousing | Databricks | Hive | MLflow |
 | Batch Processing | GCP / BigQuery | Amazon Redshift | Pandas / NumPy |
 | Distributed Systems | Docker | MongoDB | Deep Learning |
-| Apache Spark | Apache Kafka | — | Apache Airflow |
-| Hadoop / Hive | dbt | — | — |
+| Apache Spark | Apache Kafka | | Apache Airflow |
+| Hadoop / Hive | dbt | | |
 
 </div>
 
@@ -93,8 +89,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117)
-&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&count_private=true)
+&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117)
 
 </div>
@@ -126,6 +122,6 @@ status : 🟢 Open to Work
 
 *© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1b2a&height=100&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1b2a&height=100&section=footer)
 
 </div>
