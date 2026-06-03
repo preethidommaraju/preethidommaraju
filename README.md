@@ -105,21 +105,15 @@
 
 ---
 
-## > metrics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800)
-
-</div>
-
----
-
 ## > contribution_graph
 
 <div align="center">
 
-![contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethidommaraju&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preethidommaraju/preethidommaraju/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preethidommaraju/preethidommaraju/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/preethidommaraju/preethidommaraju/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
