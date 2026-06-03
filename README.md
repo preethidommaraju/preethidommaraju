@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud&descSize=16&descAlignY=58&descColor=90e0ef)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=220&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20Data%20Engineer%20%7C%20Big%20Data%20%26%20Cloud&descSize=17&descAlignY=55&descColor=ffffff)
 
 </div>
 
@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju)
 
-📍 New Jersey &nbsp;·&nbsp; MS CS @ St. Francis College (2026) &nbsp;·&nbsp; 🟢 Open to Work
+📍 New Jersey, USA &nbsp;·&nbsp; MS CS @ St. Francis College (2026) &nbsp;·&nbsp; OPT Eligible Aug 2026 &nbsp;·&nbsp; 🟢 Open to Work
 
 </div>
 
@@ -32,115 +32,45 @@
 
 ## > tech_stack
 
-**Languages & Core**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash" />
-</p>
+<div align="center">
 
-**Big Data & ETL**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,docker,git" />
-</p>
+### Languages
 
-**Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,bash,postgres&perline=4" />
 
-**AI / ML**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+<br/>
 
-**Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+### Big Data & ETL
+
+<img src="https://skillicons.dev/icons?i=kafka,docker,aws&perline=3" />
+
+<br/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
+
+<br/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" />
+
+</div>
 
 <br/>
 
 <div align="center">
 
-| 🔄 Data Engineering | ☁️ Cloud | 🗄️ Databases | 🤖 AI / ML |
-|:---|:---|:---|:---|
-| ETL Pipelines | AWS (S3, Glue, EMR) | PostgreSQL | PyTorch |
-| Data Modeling | Amazon Redshift | MySQL | scikit-learn |
-| Data Warehousing | Databricks | Hive | MLflow |
-| Batch Processing | GCP / BigQuery | Amazon Redshift | Pandas / NumPy |
-| Distributed Systems | Docker | MongoDB | Deep Learning |
-| Apache Spark | Apache Kafka | | Apache Airflow |
-| Hadoop / Hive | dbt | | |
+| Big Data | Cloud | Databases | AI / ML |
+|:---:|:---:|:---:|:---:|
+| Apache Spark | AWS S3 | PostgreSQL | PyTorch |
+| PySpark | AWS Glue | MySQL | TensorFlow |
+| Hadoop | Amazon Redshift | Hive | scikit-learn |
+| Hive | Databricks | SQL | Pandas / NumPy |
+| Apache Kafka | Docker | MongoDB | Deep Learning |
+| ETL Pipelines | Cloud Analytics |  | AI Systems |
 
 </div>
 
 ---
-
-## > experience
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│  Tech Mahindra Limited  ·  Data Engineer  ·  Aug 2021 – Jan 2024  ·  Hyderabad  │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
-
-- Built and optimized large-scale ETL pipelines using **Apache Spark, Hadoop, Hive, and AWS** → **35% improvement** in processing efficiency
-- Migrated production data from **Avro → Parquet** with Hive partitioning → **40% faster queries**, reduced storage overhead
-- Supported **Scotiabank's cloud migration** on AWS → **20% reduction** in processing costs
-- Automated production support workflows and monitoring → **60% less manual effort**, improved SLA compliance
-- Led deployments across **DEV, UAT, and PROD** for 15+ releases with zero major incidents
-- Resolved **95% of critical production incidents** without escalation → **25% MTTR reduction**
-
-> 🏆 **Pat on the Back Award** — Recognized for exceptional ownership of high-priority data engineering tasks and consistent delivery across production workflows.
-
----
-
-## > featured_projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [**Division & Replication of Data**](https://github.com/preethidommaraju/data-division-replication) | Distributed big data solution using Hadoop & Spark — fragments datasets across cloud nodes for fault tolerance and high availability | Spark · Hadoop · Python · Cloud |
-| [**High-Res Image Synthesis with LDMs**](https://github.com/preethidommaraju/image-synthesis-ldm) | End-to-end ML pipeline for high-resolution image generation using Latent Diffusion Models — preprocessing to scalable inference | PyTorch · GCP · Deep Learning |
-| [**Strava Lite**](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite) | Lightweight Flask REST API for fitness activity tracking — modular architecture with clean endpoint design | Flask · PostgreSQL · REST API |
-
----
-
-## > metrics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=preethidommaraju&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
----
-
-## > education & certifications
-
-| 🎓 Degree | Institution | Year |
-|:---|:---|:---:|
-| MS Computer Science | St. Francis College | 2026 |
-| BE Computer Science | Sri Venkateshwara College of Engineering | 2019 |
-
-| 🏅 Certification | Issuer | Status |
-|:---|:---|:---:|
-| AWS Certified Data Engineer – Associate | Amazon Web Services | 🔄 In Progress |
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
-[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
-
-```yaml
-status : 🟢 Open to Work
-```
-
-*© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1b2a&height=100&section=footer)
-
-</div>
