@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-
-**📍 New Jersey, NJ · Open to Relocation · MS CS @ St. Francis College · 🟢 Open to Work**
+📍 New Jersey, USA · Open to Relocation · OPT Eligible Aug 2026 · MS CS @ St. Francis College · 🟢 Open to Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-preethidommaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![GitHub](https://img.shields.io/badge/GitHub-preethidommaraju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preethidommaraju)
