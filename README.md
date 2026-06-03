@@ -17,8 +17,9 @@
 
 ---
 
+## > whoami
+
 ```yaml
-> whoami
   name      : Preethi Dommaraju
   role      : AI Data Engineer | Data Engineer
   exp       : 2.5+ years @ Tech Mahindra
@@ -132,10 +133,6 @@
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
-
-```yaml
-status : 🟢 Open to Work
-```
 
 *© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
 
