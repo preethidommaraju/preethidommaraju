@@ -1,8 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Preethi Dommaraju
+📍 New Jersey, USA · Open to Relocation · OPT Eligible Aug 2026 · MS CS @ St. Francis College · 🟢 Open to Work
 
-### AI Data Engineer | Data Engineer | Building Scalable Data Pipelines & AI-Ready Data Systems
+🎯 Seeking Data Engineer and AI Data Engineer Opportunities
 
 </div>
 
