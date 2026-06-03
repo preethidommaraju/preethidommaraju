@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cloud%20Infrastructure&descSize=16&descAlignY=58&descColor=90e0ef" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud&descSize=16&descAlignY=58&descColor=90e0ef" />
 
 </div>
 
@@ -19,12 +19,13 @@
 
 ```yaml
 > whoami
-  name    : Preethi Dommaraju
-  role    : Data Engineer → AI/ML Systems
-  exp     : 2.5+ years building scalable data pipelines
-  current : MS Computer Science @ St. Francis College
-  focus   : ETL Pipelines · Cloud Data · Deep Learning · AI-Ready Systems
-  status  : Open to Data Engineering & ML Engineering roles
+  name      : Preethi Dommaraju
+  role      : AI Data Engineer | Data Engineer
+  exp       : 2.5+ years @ Tech Mahindra
+  current   : MS Computer Science @ St. Francis College (Aug 2026)
+  focus     : ETL Pipelines · Big Data · Cloud Analytics · AI Systems
+  work_auth : OPT Eligible Aug 2026
+  status    : 🟢 Open to Work
 ```
 
 ---
@@ -33,33 +34,27 @@
 
 <div align="center">
 
-**Languages**
+[![Python](https://skillicons.dev/icons?i=python,java,bash,pytorch,tensorflow)](https://skillicons.dev)
 
-![Python](https://skillicons.dev/icons?i=python,java,bash,postgres)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git)](https://skillicons.dev)
 
-**Big Data & ETL**
-
-![Big Data](https://skillicons.dev/icons?i=hadoop,kafka,docker,aws)
-
-**Cloud & DevOps**
-
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git)
-
-**AI / ML**
-
-![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
+[![DB](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-| Big Data | Cloud | Databases | ML |
+| 🔄 Data Engineering | ☁️ Cloud | 🗄️ Databases | 🤖 AI / ML |
 |:---:|:---:|:---:|:---:|
-| Apache Spark | AWS (S3, Glue, EMR) | PostgreSQL | PyTorch |
-| Hadoop / Hive | GCP / BigQuery | MySQL | scikit-learn |
-| Apache Kafka | Redshift | MongoDB | MLflow |
-| Apache Airflow | Databricks | Hive | Pandas / NumPy |
-| dbt | Docker | Redis | Deep Learning |
+| ETL Pipelines | AWS (S3, Glue, EMR) | PostgreSQL | PyTorch |
+| Data Modeling | Amazon Redshift | MySQL | scikit-learn |
+| Data Warehousing | Databricks | Hive | MLflow |
+| Batch Processing | GCP / BigQuery | Amazon Redshift | Pandas / NumPy |
+| Distributed Systems | Docker | MongoDB | Deep Learning |
+| Apache Spark | Apache Kafka | — | Apache Airflow |
+| Hadoop / Hive | dbt | — | — |
 
 </div>
 
@@ -68,10 +63,9 @@
 ## > experience
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Tech Mahindra Limited  ·  Data Engineer  ·  Aug 2021 – Jan 2024   │
-│  Hyderabad, India                                                   │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│  Tech Mahindra Limited  ·  Data Engineer  ·  Aug 2021 – Jan 2024  ·  Hyderabad  │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 - Built and optimized large-scale ETL pipelines using **Apache Spark, Hadoop, Hive, and AWS** → **35% improvement** in processing efficiency
@@ -99,9 +93,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117)
 
 </div>
 
@@ -122,13 +116,15 @@
 
 <div align="center">
 
-```
-> connect --with preethi
+```yaml
+status : 🟢 Open to Work
 ```
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
+
+*© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1b2a&height=100&section=footer" />
 
