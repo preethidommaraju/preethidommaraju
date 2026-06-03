@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Preethi Dommaraju
 
-### Building Scalable Data Pipelines & AI-Ready Data Systems
+### AI Data Engineer | Data Engineer | Building Scalable Data Pipelines & AI-Ready Data Systems
 
 </div>
 
