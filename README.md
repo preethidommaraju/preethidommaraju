@@ -1,6 +1,16 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Preethi+Dommaraju;Data+Engineer+%7C+AI+Data+Engineer;Apache+Spark+%7C+AWS+%7C+ETL+Pipelines;Open+to+Work+🟢" alt="Typing SVG" />
+</div>
+
+<div align="center">
 
 # 👋 Hi, I'm Preethi Dommaraju
+
+### AI Data Engineer | Data Engineer | Building Scalable Data Pipelines & AI-Ready Data Systems
+
+</div>
+
+<div align="center">
 📍 New Jersey, USA · Open to Relocation · OPT Eligible Aug 2026 · MS CS @ St. Francis College · 🟢 Open to Work
 
 🎯 Seeking Data Engineer and AI Data Engineer Opportunities
