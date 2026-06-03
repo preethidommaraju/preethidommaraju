@@ -1,5 +1,7 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00b4d8&height=200&section=header&text=Preethi%20Dommaraju&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud&descSize=16&descAlignY=58&descColor=90e0ef" />
+<<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&background=0A3D6200&center=true&vCenter=true&width=600&height=80&lines=Preethi+Dommaraju" />
+<br/>
+<img src="https://img.shields.io/badge/Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud-0a3d62?style=for-the-badge&labelColor=0d1b2a&color=00b4d8" />
 </div>
 
 <div align="center">
