@@ -1,7 +1,5 @@
-<<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&background=0A3D6200&center=true&vCenter=true&width=600&height=80&lines=Preethi+Dommaraju" />
-<br/>
-<img src="https://img.shields.io/badge/Data%20Engineer%20%E2%80%A2%20AI%20Data%20Engineer%20%E2%80%A2%20Big%20Data%20%26%20Cloud-0a3d62?style=for-the-badge&labelColor=0d1b2a&color=00b4d8" />
+<div align="center">
+<img width="100%" height="200" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=FFFFFF&background=0A3D62FF&center=true&vCenter=true&width=1200&height=200&lines=Preethi+Dommaraju;Data+Engineer+%E2%80%A2+AI+Data+Engineer;Big+Data+%26+Cloud" alt="header" />
 </div>
 
 <div align="center">
