@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/preethidommaraju/preethidommaraju/main/banner.svg" />
+<img width="100%" height="200" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=FFFFFF&background=0A3D62FF&center=true&vCenter=true&width=1200&height=200&lines=Preethi+Dommaraju;Data+Engineer+%E2%80%A2+AI+Data+Engineer;Big+Data+%26+Cloud" alt="header" />
 </div>
 
 <div align="center">
