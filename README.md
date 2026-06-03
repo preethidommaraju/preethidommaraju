@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/preethidommaraju)
 
-📍 New Jersey &nbsp;·&nbsp; MS CS @ St. Francis College (2026) &nbsp;·&nbsp; 🟢 Open to Work
+📍 New Jersey USA &nbsp;·&nbsp; MS CS @ St. Francis College (2026) &nbsp;·&nbsp; 🟢 Open to Work
 
 </div>
 
