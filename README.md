@@ -109,7 +109,17 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800)
+
+</div>
+
+---
+
+## > contribution_graph
+
+<div align="center">
+
+![contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethidommaraju&theme=tokyonight)
 
 </div>
 
