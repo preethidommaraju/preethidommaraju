@@ -25,18 +25,37 @@
   current   : MS Computer Science @ St. Francis College (Aug 2026)
   focus     : ETL Pipelines · Big Data · Cloud Analytics · AI Systems
   work_auth : OPT Eligible Aug 2026
-  status    : Open to Work
+  status    : 🟢 Open to Work
 ```
 
 ---
 
 ## > tech_stack
 
-<div align="center">
+**Languages & Core**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,bash" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,bash,pytorch,tensorflow,sklearn,aws,gcp,docker,git,postgres,mysql,mongodb,kafka" />
+**Big Data & ETL**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,docker,git" />
+</p>
 
-</div>
+**Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+**AI / ML**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
 <br/>
 
@@ -89,8 +108,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethidommaraju&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&count_private=true)
-&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=preethidommaraju&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preethidommaraju&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117)
 
 </div>
@@ -112,13 +131,13 @@
 
 <div align="center">
 
-```yaml
-status : 🟢 Open to Work
-```
-
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preethidommaraju)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://preethidommaraju.vercel.app)
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preethid0506@gmail.com)
+
+```yaml
+status : 🟢 Open to Work
+```
 
 *© 2026 Preethi Dommaraju · Built with passion and a lot of coffee ☕*
 
