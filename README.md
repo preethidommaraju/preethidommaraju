@@ -23,7 +23,6 @@
   exp       : 2.5+ years @ Tech Mahindra
   current   : MS Computer Science @ St. Francis College (Aug 2026)
   focus     : ETL Pipelines · Big Data · Cloud Analytics · AI Systems
-  work_auth : OPT Eligible Aug 2026
   status    : 🟢 Open to Work
 ```
 
@@ -62,13 +61,11 @@
 
 | 🔄 Data Engineering | ☁️ Cloud | 🗄️ Databases | 🤖 AI / ML |
 |:---|:---|:---|:---|
-| ETL Pipelines | AWS (S3, Glue, EMR) | PostgreSQL | PyTorch |
-| Data Modeling | Amazon Redshift | MySQL | scikit-learn |
-| Data Warehousing | Databricks | Hive | MLflow |
-| Batch Processing | GCP / BigQuery | Amazon Redshift | Pandas / NumPy |
-| Distributed Systems | Docker | MongoDB | Deep Learning |
-| Apache Spark | Apache Kafka | | Apache Airflow |
-| Hadoop / Hive | dbt | | |
+| ETL/ELT Pipelines | AWS (S3, Glue, EMR, Redshift, Lambda) | PostgreSQL | PyTorch |
+| Apache Kafka | Docker | | Latent Diffusion Models |
+| Apache Airflow | CI/CD Pipelines | | Generative AI |
+| Data Quality & Validation | Git | | Model Fine-Tuning |
+| Schema Design | Infrastructure as Code | | |
 
 </div>
 
@@ -82,12 +79,12 @@
 └──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-- Built and optimized large-scale ETL pipelines using **Apache Spark, Hadoop, Hive, and AWS** → **35% improvement** in processing efficiency
-- Migrated production data from **Avro → Parquet** with Hive partitioning → **40% faster queries**, reduced storage overhead
-- Supported **Scotiabank's cloud migration** on AWS → **20% reduction** in processing costs
-- Automated production support workflows and monitoring → **60% less manual effort**, improved SLA compliance
-- Led deployments across **DEV, UAT, and PROD** for 15+ releases with zero major incidents
-- Resolved **95% of critical production incidents** without escalation → **25% MTTR reduction**
+- Built and managed **10+ production-grade data pipelines** using **Python, PySpark, and AWS (S3, Glue, EMR, Redshift)**, processing **2TB+ of daily banking data** for Bank of Nova Scotia, boosting throughput by **35%** and ensuring SLA-compliant delivery
+- Identified and resolved critical pipeline bottlenecks through **Avro-to-Parquet migration** and Hive partitioning across **2TB+ datasets**, achieving **40% faster query execution** and reducing infrastructure costs
+- Established **CI/CD standards** and pipeline versioning using **Git and Docker**, delivering **15+ zero-incident deployments** across DEV, UAT, and PROD, cutting release time by **60%**
+- Implemented end-to-end **data quality and observability frameworks** including schema validation, anomaly detection, and automated alerting, ensuring **99%+ data accuracy** across all production systems
+- Partnered with a **10-person cross-functional engineering team** to architect Scotiabank's **AWS data lake migration**, reducing infrastructure costs by **20%** with **zero data loss**
+- Resolved **95% of production incidents** without escalation through root cause analysis, reducing **MTTR by 25%** and automating workflows to cut manual effort by **60%**
 
 > 🏆 **Pat on the Back Award** — Recognized for exceptional ownership of high-priority data engineering tasks and consistent delivery across production workflows.
 
@@ -97,9 +94,10 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**Division & Replication of Data**](https://github.com/preethidommaraju/data-division-replication) | Distributed big data solution using Hadoop & Spark — fragments datasets across cloud nodes for fault tolerance and high availability | Spark · Hadoop · Python · Cloud |
-| [**High-Res Image Synthesis with LDMs**](https://github.com/preethidommaraju/image-synthesis-ldm) | End-to-end ML pipeline for high-resolution image generation using Latent Diffusion Models — preprocessing to scalable inference | PyTorch · GCP · Deep Learning |
-| [**Strava Lite**](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite) | Lightweight Flask REST API for fitness activity tracking — modular architecture with clean endpoint design | Flask · PostgreSQL · REST API |
+| [**Real-Time Fraud Detection Pipeline**](https://github.com/preethidommaraju/realtime-fraud-detection) | Real-time transaction streaming pipeline using Apache Kafka — producer generating live transaction events, consumer applying rule-based fraud detection (high-value and high-frequency flagging) using sliding time windows | Kafka · Python · Docker |
+| [**Division & Replication of Data**](https://github.com/preethidommaraju/data-division-replication) | Distributed data platform using Apache Spark with hash, range, and round-robin partitioning and 3x replication, achieving 4x throughput improvement and 99.98% data availability | Spark · Hadoop · Python · Cloud |
+| [**High-Res Image Synthesis with LDMs**](https://github.com/preethidommaraju/image-synthesis-ldm) | Productionized generative AI pipelines using PyTorch and latent diffusion models covering data preprocessing, model fine-tuning, training, and evaluation | PyTorch · Deep Learning · Python |
+| [**Strava Lite**](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite) | Full-stack data application with PostgreSQL and REST APIs for automated ingestion and transformation, reducing manual reporting effort by 50% | Flask · PostgreSQL · REST API |
 
 ---
 
