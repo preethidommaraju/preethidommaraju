@@ -31,41 +31,48 @@
 ## > tech_stack
 
 **Languages & Core**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,bash" />
 </p>
 
 **Big Data & ETL**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kafka,docker,git" />
 </p>
 
-**Cloud**
+**Cloud & DevOps**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,github" />
 </p>
 
-**AI / ML**
+**AI & GenAI**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 **Databases**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 <br/>
 
 <div align="center">
 
-| 🔄 Data Engineering | ☁️ Cloud | 🗄️ Databases | 🤖 AI / ML |
-|:---|:---|:---|:---|
-| ETL/ELT Pipelines | AWS (S3, Glue, EMR, Redshift, Lambda) | PostgreSQL | PyTorch |
-| Apache Kafka | Docker | | Latent Diffusion Models |
-| Apache Airflow | CI/CD Pipelines | | Generative AI |
-| Data Quality & Validation | Git | | Model Fine-Tuning |
-| Schema Design | Infrastructure as Code | | |
+| 🔄 Data Engineering | ☁️ Cloud & DevOps | 🗄️ Databases | 🤖 AI & GenAI |
+| :--- | :--- | :--- | :--- |
+| ETL/ELT Pipelines | AWS (S3, Glue, EMR, Redshift, Lambda) | PostgreSQL | Generative AI / LLMs |
+| Apache Spark / PySpark | Docker | MySQL | Agentic AI |
+| Apache Kafka | Git / GitHub |  | LangGraph |
+| Apache Airflow | CI/CD / GitHub Actions |  | Claude API |
+| Data Quality & Validation | Cloud Data Platforms |  | PyTorch |
+| Schema & Data Modeling |  |  | Latent Diffusion Models |
+| Parquet / Avro |  |  | Prompt Engineering |
 
 </div>
 
