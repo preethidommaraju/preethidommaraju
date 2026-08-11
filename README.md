@@ -93,11 +93,11 @@
 ## > featured_projects
 
 | Project | Description | Stack |
-|:---|:---|:---|
-| [**Real-Time Fraud Detection Pipeline**](https://github.com/preethidommaraju/realtime-fraud-detection) | Real-time transaction streaming pipeline using Apache Kafka — producer generating live transaction events, consumer applying rule-based fraud detection (high-value and high-frequency flagging) using sliding time windows | Kafka, Python, Docker |
+| :------ | :---------- | :---- |
+| [**Data Contract Guardian**](https://github.com/preethidommaraju/data-contract-guardian) | Agentic AI system that detects breaking data-contract changes, investigates downstream dependencies and past incidents, uses Claude for risk-aware reasoning, and escalates high-risk changes to engineers through Slack with automated GitHub Actions triggers | Claude API, LangGraph, Python, Pydantic, Slack, GitHub Actions |
+| [**High-Res Image Synthesis with LDMs**](https://github.com/preethidommaraju/image-synthesis-ldm) | Productionized generative AI pipeline using PyTorch and latent diffusion models covering data preprocessing, model fine-tuning, training, and evaluation | PyTorch, Deep Learning, Python |
+| [**Real-Time Fraud Detection Pipeline**](https://github.com/preethidommaraju/realtime-fraud-detection) | Real-time transaction streaming pipeline using Apache Kafka — producer generating live transaction events and consumer applying rule-based fraud detection using sliding time windows | Kafka, Python, Docker |
 | [**Division & Replication of Data**](https://github.com/preethidommaraju/data-division-replication) | Distributed data platform using Apache Spark with hash, range, and round-robin partitioning and 3x replication, achieving 4x throughput improvement and 99.98% data availability | Spark, Hadoop, Python, Cloud |
-| [**High-Res Image Synthesis with LDMs**](https://github.com/preethidommaraju/image-synthesis-ldm) | Productionized generative AI pipelines using PyTorch and latent diffusion models covering data preprocessing, model fine-tuning, training, and evaluation | PyTorch, Deep Learning, Python |
-| [**Strava Lite**](https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite) | Full-stack data application with PostgreSQL and REST APIs for automated ingestion and transformation, reducing manual reporting effort by 50% | Flask, PostgreSQL, REST API |
 
 ---
 
