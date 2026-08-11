@@ -19,10 +19,10 @@
 
 ```yaml
   name      : Preethi Dommaraju
-  role      : AI Data Engineer | Data Engineer
+  role      : Data Engineer | AI & GenAI
   exp       : 2.5+ years @ Tech Mahindra
   current   : MS Computer Science @ St. Francis College (Aug 2026)
-  focus     : ETL Pipelines · Big Data · Cloud Analytics · AI Systems
+  focus     : Agentic AI · GenAI · Data Engineering · Cloud · Big Data
   status    : 🟢 Open to Work
 ```
 
